@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Angular<br><!--<br>🎯 Goals: <br>--><br><!-- write something inspiring --><br>🎲 Fun fact: I am Bill Gates' first choice<br>“I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.” ― Bill Gates</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Angular<br><! --<br>🎯 Goals: <br>-- ><br><!-- write something inspiring --><br>🎲 Fun fact: I am Bill Gates' first choice<br>“I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.” ― Bill Gates</p>
 
 ###
 
